@@ -1,3 +1,3 @@
 # crispy-eureka
 
-Randon odds and ends 
+Random odds and ends 
