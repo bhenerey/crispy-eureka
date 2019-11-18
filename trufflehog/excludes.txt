@@ -1,0 +1,3 @@
+blog\/wp-content
+blog\/wp-includes
+(.*?).min.js
