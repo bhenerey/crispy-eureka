@@ -1,4 +1,4 @@
-# Handy scripts
+# Handy Python scripts
 
 Random utility scripts:
 
