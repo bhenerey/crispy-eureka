@@ -1,3 +1,5 @@
 github_users.csv
 trufflehog/logs
 trufflehog/trufflehog-repos
+terraform/workspace/*/.terraform
+terraform/workspace/*/terraform.tfstate.d/
